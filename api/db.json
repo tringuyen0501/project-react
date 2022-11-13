@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "userId": 101,
+      "name": "Alice",
+      "password": 123456
+    },
+    {
+      "id": 2,
+      "userId": 102,
+      "name": "Bob",
+      "password": 123456
+    },
+    {
+      "id": 3,
+      "userId": 103,
+      "name": "Carol",
+      "password": 123456
+    },
+    {
+      "id": 4,
+      "userId": 104,
+      "name": "Loen",
+      "password": 123456
+    },
+    {
+      "id": 5,
+      "userId": 105,
+      "name": "Kate",
+      "password": 123456
+    },
+    {
+      "id": 6,
+      "userId": 106,
+      "name": "John",
+      "password": 123456
+    },
+    {
+      "id": 7,
+      "userId": 107,
+      "name": "Mom",
+      "password": 123456
+    },
+    {
+      "id": 8,
+      "userId": "108",
+      "name": "Dang",
+      "password": 123456
+    }
+  ]
+}
